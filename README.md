@@ -1,7 +1,23 @@
+# 💫 Hi 👋, I'm Arjun kahar
+**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India || Ethical Hacker || CyberSecurity Expert || Red Teammer**
+
+Email Me 👉 ✉️ **kahararjun537@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Machine Learning & Machine Language , Neuralinks, AI 
+- 🌱 **I’m currently learning:** KOTLIN,IMGUI,CRYPTOGRAPHY
+- 👯 **I’m looking to collaborate on:**  🆂🅴🅲🆁🅴🆃
+- 🤔 **I’m looking for help with:** MYSELF
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** kahararjun537@gmail.com
+- 😄 **Pronouns:** Arjunnnnnnnnn
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+## 🔗 I am a Content Creator. 😊😊
+
+Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Y4CxHvgvP9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/arjunnn021/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gamingarjun368) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Arjun kahar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kahararjun537@gmail.com) 
-
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Y4CxHvgvP9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjunnn021/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gamingarjun368)
 
 <!-- Snake Game Repo View -->
 
@@ -15,10 +31,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hackoarjunz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hackoarjunz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hackoarjunz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hackoarjunz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
